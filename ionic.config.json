@@ -1,0 +1,7 @@
+{
+  "name": "Psd2Web",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
